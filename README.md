@@ -4,7 +4,6 @@ selector connect to PORT A
 and a,b,c,....,g connect to PD0,...,PD6
 and dot not connect  
 ## website : [visit me](https://bagherian1999.ir/)   
-## instagram link : [find me on insta](https://www.instagram.com/s_bgh99)  
-> S_bgh991
+## instagram link : [find me on insta](https://www.instagram.com/m_bgh78)  
 ![PNG_EditLogo](/image/1.jpg)
 
